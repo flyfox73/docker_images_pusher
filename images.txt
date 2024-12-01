@@ -1,2 +1,2 @@
-ghcr.io/snowdreamtech/frps:nightly-alpine3.20
-https://hub.docker.com/r/pennlinc/qsiprep_build
+
+pennlinc/qsiprep_build
